@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Saisamarth Udikeri
 
 # 💫 About Me:
-I am a Computer Science Engineer with extensive experience in machine learning, artificial intelligence, and computer vision. I have a strong background in cloud computing, particularly with AWS, and am proficient in containerization technologies such as Kubernetes and Docker. Additionally, I have developed web applications using React, HTML, CSS, and JavaScript, and I possess experience in UI/UX design, ensuring a user-centered approach in all my projects.
+### I am a Computer Science Engineer with extensive experience in machine learning, artificial intelligence, and computer vision. I have a strong background in cloud computing, particularly with AWS, and am proficient in containerization technologies such as Kubernetes and Docker. Additionally, I have developed web applications using React, HTML, CSS, and JavaScript, and I possess experience in UI/UX design, ensuring a user-centered approach in all my projects.
 
 
 ## 🌐 Socials:
